@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89fff0d9-b448-46d7-b95c-5ef6c3a9f7c5" name="Changes" comment="" />
+    <list default="true" id="89fff0d9-b448-46d7-b95c-5ef6c3a9f7c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/BaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/InstrumentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/PresentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/ShopImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/models/Sleepy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/repositories/HelperRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fairyShop/repositories/PresentRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DCyAddyxG6MJtlEbrMTsldFWuw" />
   <component name="ProjectViewState">
@@ -54,5 +71,16 @@
       <updated>1660217220303</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
